@@ -1,0 +1,7 @@
+{
+    "name" : "Killing Floor 2 name dificulty",
+	"blt_version" : 2,
+	"hooks": [
+		{ "hook_id" : "lib/managers/localizationmanager","script_path" : "localizationmanager.lua" }
+	]
+}
